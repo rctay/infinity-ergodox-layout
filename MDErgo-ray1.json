@@ -704,7 +704,10 @@
             "w": 4,
             "h": 6,
             "layers": {
-
+                "0": {
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
+                }
             }
         },
         {
@@ -1099,10 +1102,6 @@
             "w": 4,
             "h": 8,
             "layers": {
-                "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
-                },
                 "2": {
                     "key": "P0",
                     "label": "P0"
