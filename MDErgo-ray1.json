@@ -500,6 +500,10 @@
                 "0": {
                     "key": "SPACE",
                     "label": "[&nbsp;]"
+                },
+                "2": {
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -523,7 +527,14 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "DELETE",
+                    "label": "DEL"
+                },
+                "2": {
+                    "key": "INSERT",
+                    "label": "INS"
+                }
             }
         },
         {
@@ -1132,7 +1143,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
+                }
             }
         },
         {
