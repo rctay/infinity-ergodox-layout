@@ -355,8 +355,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
                 }
             }
         },
@@ -485,8 +485,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
@@ -946,7 +946,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "RALT",
+                    "label": "RALT"
+                }
             }
         },
         {
@@ -1102,6 +1105,10 @@
             "w": 4,
             "h": 8,
             "layers": {
+                "0": {
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
+                },
                 "2": {
                     "key": "P0",
                     "label": "P0"
