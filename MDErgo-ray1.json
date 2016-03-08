@@ -227,8 +227,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 }
             }
         },
@@ -325,8 +325,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CAPSLOCK",
-                    "label": "CAPSLK"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 },
                 "2": {
                     "key": "#:'|'",
@@ -446,8 +446,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LSHIFT",
+                    "label": "L\u21d1"
                 }
             }
         },
@@ -810,10 +810,7 @@
             "w": 6,
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "RSHIFT",
-                    "label": "R\u21d1"
-                }
+
             }
         },
         {
@@ -921,8 +918,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "RSHIFT",
+                    "label": "R\u21d1"
                 }
             }
         },
