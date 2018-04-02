@@ -4,10 +4,10 @@
         "Variant": "standard",
         "Layout": "Ray1",
         "Base": "Blank",
-        "Version": "0.3",
+        "Version": "0.4",
         "Author": "Tay Ray Chuan",
         "KLL": "0.3c",
-        "Date": "2016-03-05",
+        "Date": "2018-04-02",
         "Generator": "KIICONF 0.2"
     },
     "defines": [
@@ -346,8 +346,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
@@ -489,8 +489,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "LGUI",
+                    "label": "LGUI"
                 }
             }
         },
@@ -549,8 +549,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SELECT",
-                    "label": "SELECT"
+                    "key": "APP",
+                    "label": "APP"
                 }
             }
         },
