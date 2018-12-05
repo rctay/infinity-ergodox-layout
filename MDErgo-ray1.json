@@ -329,8 +329,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "DELETE",
+                    "label": "DEL"
                 },
                 "2": {
                     "key": "#:'|'",
@@ -413,6 +413,10 @@
                 "0": {
                     "key": "J",
                     "label": "J"
+                },
+                "2": {
+                    "key": "APP",
+                    "label": "APP"
                 }
             }
         },
@@ -532,8 +536,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "LEFT",
+                    "label": "\u2190"
                 },
                 "2": {
                     "key": "INSERT",
@@ -549,8 +553,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "APP",
-                    "label": "APP"
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             }
         },
@@ -1070,8 +1074,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -1165,8 +1169,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 },
                 "2": {
                     "key": "P.",
@@ -1182,8 +1186,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 },
                 "2": {
                     "key": "PENTER",
@@ -1199,8 +1203,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         }
