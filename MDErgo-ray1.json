@@ -561,8 +561,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             }
         },
@@ -574,8 +574,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 }
             }
         },
