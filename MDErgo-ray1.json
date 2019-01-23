@@ -348,6 +348,10 @@
                 "0": {
                     "key": "LALT",
                     "label": "LALT"
+                },
+                "1": {
+                    "key": "END",
+                    "label": "END"
                 }
             }
         },
@@ -361,6 +365,10 @@
                 "0": {
                     "key": "LSHIFT",
                     "label": "L\u21d1"
+                },
+                "1": {
+                    "key": "HOME",
+                    "label": "HOME"
                 }
             }
         },
@@ -454,8 +462,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LSHIFT",
-                    "label": "L\u21d1"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -467,8 +475,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "HOME",
-                    "label": "HOME"
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
@@ -480,8 +488,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "END",
-                    "label": "END"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -536,8 +544,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 },
                 "2": {
                     "key": "INSERT",
@@ -553,8 +561,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 }
             }
         },
@@ -565,7 +573,10 @@
             "w": 4,
             "h": 4,
             "layers": {
-
+                "0": {
+                    "key": "UP",
+                    "label": "\u2191"
+                }
             }
         },
         {
@@ -576,8 +587,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUNCTION1",
-                    "label": "\u01921"
+                    "key": "LEFT",
+                    "label": "\u2190"
                 }
             }
         },
